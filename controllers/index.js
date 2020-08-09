@@ -128,3 +128,7 @@ var  hienThiThongTinSinhVien = function()  {
     
     console.log('userB, hiển thị thông tin sinh viên');
 }
+
+var laySinhVienDiemCaoNhat = function  () {
+    console.log('userB','laySinhVienDiemCaoNhat')
+}
