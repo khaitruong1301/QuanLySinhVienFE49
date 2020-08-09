@@ -124,3 +124,7 @@ var layDuLieuLocalStorage = function () {
 
 layDuLieuLocalStorage();
 
+
+var sapXepSinhVien = function (){
+    console.log('usA, sắp xếp sinh viên')
+}
