@@ -124,6 +124,10 @@ var layDuLieuLocalStorage = function () {
 
 layDuLieuLocalStorage();
 
+
+var sapXepSinhVien = function (){
+    console.log('usA, sắp xếp sinh viên')
+}
 var  hienThiThongTinSinhVien = function()  {
     
     console.log('userB, hiển thị thông tin sinh viên');
