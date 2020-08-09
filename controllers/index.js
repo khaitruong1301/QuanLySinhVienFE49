@@ -124,3 +124,7 @@ var layDuLieuLocalStorage = function () {
 
 layDuLieuLocalStorage();
 
+var  hienThiThongTinSinhVien = function()  {
+    
+    console.log('userB, hiển thị thông tin sinh viên');
+}
