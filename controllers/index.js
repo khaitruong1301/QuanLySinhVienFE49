@@ -136,3 +136,7 @@ var  hienThiThongTinSinhVien = function()  {
 var laySinhVienDiemCaoNhat = function  () {
     console.log('userB','laySinhVienDiemCaoNhat')
 }
+
+var f_devA = function () {
+    console.log('devA');
+}
