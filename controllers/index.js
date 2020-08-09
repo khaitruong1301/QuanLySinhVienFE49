@@ -124,7 +124,13 @@ var layDuLieuLocalStorage = function () {
 
 layDuLieuLocalStorage();
 
+<<<<<<< HEAD
 
 var sapXepSinhVien = function (){
     console.log('usA, sắp xếp sinh viên')
+=======
+var  hienThiThongTinSinhVien = function()  {
+    
+    console.log('userB, hiển thị thông tin sinh viên');
+>>>>>>> 15383e2b24bcd82da18f7e4373e59ed996dc816d
 }
